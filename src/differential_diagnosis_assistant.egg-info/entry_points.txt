@@ -1,0 +1,2 @@
+[console_scripts]
+differential-diagnosis = differential_diagnosis.cli:cli
